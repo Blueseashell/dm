@@ -131,15 +131,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Ysj",
-      "name": "📮异世界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "魔都",
       "name": "🥇💢魔都",
       "type": 0,
